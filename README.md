@@ -223,6 +223,6 @@ Submit the following via Brightspace:
   - Your demo video link (if available)
 - Your GitHub repo must be **well-structured and publicly accessible**.
 
-**Deadline**: *Friday, 25 July 2025*
+**Deadline**: *Friday, 1 August 2025*
 
 
